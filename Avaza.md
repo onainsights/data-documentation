@@ -4,7 +4,7 @@
 This document provides guidance on how to use Avaza for task scheduling and accessing invoicing schedules. It outlines roles, processes, and responsibilities to ensure effective data management and collaboration.
 
 ## How / Where Analytics Resourcing is Done
-The analytics resourcing process is documented [here] (https://docs.google.com/document/d/1MyXntQ24Oqg54x16FsLG6divE8BDW5fhXQGXCX6dCSI/edit?tab=t.0). Analytics’ team broad assignment is managed weekly and updated in the Avaza Team schedule.
+The analytics resourcing process is documented [here](https://docs.google.com/document/d/1MyXntQ24Oqg54x16FsLG6divE8BDW5fhXQGXCX6dCSI/edit?tab=t.0). Analytics’ team broad assignment is managed weekly and updated in the Avaza Team schedule.
 
 ### 1.1 Understanding Project Priority
 Knowing how important each project is in relation to the others is essential for efficient management of resourcing within the Analytics team.  
